@@ -1,1 +1,1 @@
-Sitemap: https://yichen-dong.github.io/dsblog/sitemap.xml
+Sitemap: http://yichendongds.com/dsblog/sitemap.xml
