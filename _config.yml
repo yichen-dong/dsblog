@@ -14,7 +14,9 @@ github_repo: "dsblog"
 
 # OPTIONAL: override baseurl and url if using a custom domain
 # Note: leave out the trailing / from this value. 
-url: "https://yichen-dong.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+# url: "https://yichen-dong.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://yichendongds.com" # the base hostname & protocol for your site, e.g. http://example.com
+
 
 ###########################################################
 #########  Special Instructions for baseurl ###############
